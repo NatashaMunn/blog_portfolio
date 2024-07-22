@@ -1,7 +1,7 @@
 ---
 title: "Period Poverty: A Global Analysis"
 description: |
-  An video investigation of the stigma surrounding period care.  
+  A video investigation of the stigma surrounding period care.  
 author:
   - name: Natasha Munn 
 date: 06-26-2024

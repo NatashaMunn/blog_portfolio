@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "contact.html",
+      "title": "About",
+      "description": "I am a second year student at the University of Auckland majoring in Statistics and Communications.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-07-22T18:39:31+12:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Learning with Data and Digital Communications!",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-07-22T19:29:15+12:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
