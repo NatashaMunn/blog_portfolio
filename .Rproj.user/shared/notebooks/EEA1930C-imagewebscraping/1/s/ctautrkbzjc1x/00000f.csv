@@ -1,0 +1,6 @@
+"0",""
+"0","# FILM POSTERS VS CRITICS SCORE"
+"0","posters <- read_html(rotten_tomatoes) %>%"
+"0","  html_elements("".article_poster"") %>%"
+"0","  html_attr(""src"") "
+"0",""

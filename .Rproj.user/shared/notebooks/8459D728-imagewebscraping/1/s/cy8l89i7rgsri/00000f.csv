@@ -1,0 +1,7 @@
+"0",""
+"0","cleaned_data <- rotten_data %>%"
+"0","  mutate(year_released = year_released %>% str_sub(1, 5) %>% parse_number()) %>%"
+"0","    mutate(meter_score = meter_score %>% str_sub(1, 2) %>% parse_number()) %>%"
+"0"," mutate(phase = ifelse(year_released > 2018,"
+"0","                                ""Post-Endgame"","
+"0","                                ""Pre-Endgame"")) "
