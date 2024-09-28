@@ -1,0 +1,18 @@
+---
+title: "Kia Ora!"
+description: |
+
+author:
+  - name: Natasha Munn 
+date: 06-24-2024
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+My name is Natasha. Welcome to my blog! I am a second-year student at the University of Auckland majoring in Statistics and Communications. I will use this space to demonstrate my learning, document my progress, and have fun with data analysis and digital communications. More posts to come!
+
